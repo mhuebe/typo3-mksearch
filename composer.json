@@ -63,7 +63,6 @@
             "util/",
             "view/"
         ],
-        "exclude-from-classmap": ["lib/Elastica/"],
         "psr-4": {
             "DMK\\Mksearch\\" : "Classes"
         }
